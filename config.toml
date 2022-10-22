@@ -1,7 +1,7 @@
 [settings]
 allow_nsfw = false
 theme = "dark"
-times_to_run = 1
+times_to_run = 999999999
 opacity = 0.9
 transition = 0.2
 storymode = false
