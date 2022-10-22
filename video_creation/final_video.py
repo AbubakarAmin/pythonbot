@@ -151,9 +151,9 @@ def make_final_video(
      )
     final.write_videofile(
         f"assets/temp/{id}/temp.mp4",
-        fps=24,
+        fps=26,
         audio_codec="aac",
-        audio_bitrate="110k",
+        audio_bitrate="119k",
         verbose=False,
         threads=multiprocessing.cpu_count(),
     )
