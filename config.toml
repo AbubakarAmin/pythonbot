@@ -1,0 +1,33 @@
+[settings]
+allow_nsfw = false
+theme = "dark"
+times_to_run = 1
+opacity = 0.9
+transition = 0.2
+storymode = false
+
+[settings.background]
+background_choice = "minecraft"
+
+[settings.tts]
+voice_choice = ""
+aws_polly_voice = "Matthew"
+streamlabs_polly_voice = "Matthew"
+tiktok_voice = "en_us_006"
+python_voice = "1"
+py_voice_num = "2"
+
+[reddit.creds]
+client_id = "hePfY6vTcI7Xn0z9Dzu2pw"
+client_secret = "RX2dsdqnpGvY-fF9DhAfvLhu0e49eg"
+username = "Abubakar7861122"
+password = "ak1122ak"
+2fa = false
+
+[reddit.thread]
+random = false
+subreddit = "AskReddit"
+post_id = ""
+max_comment_length = 500
+post_lang = ""
+min_comments = 20
