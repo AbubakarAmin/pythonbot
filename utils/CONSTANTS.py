@@ -19,9 +19,9 @@ background_options = {
         lambda t: ("center", 200 + t),
     ),
     "minecraft": (  # Minecraft parkour
-        "https://www.youtube.com/watch?v=n_Dv4JMiwK8",
+        "https://www.youtube.com/watch?v=j0XTcDe5_uY",
         "parkour.mp4",
-        "bbswitzer",
+        "Dr.Dank",
         "center",
     ),
     "gta": (  # GTA Stunt Race
