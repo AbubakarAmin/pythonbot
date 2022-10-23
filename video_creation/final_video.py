@@ -316,7 +316,10 @@ def make_final_video(
         }   
         
         upload_video(video_data)
-
+        print('Upload done')
+        print("Abubakar deleting file")
+        os.remove(f"results/{subreddit}/{filename})
+        
 
 
 
